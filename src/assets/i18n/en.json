@@ -1,0 +1,190 @@
+{
+
+    "Header.Item0" : "Home",
+    "Header.Item1" : "Sobre mim",
+    "Header.Item2" : "Experiências",
+    "Header.Item3" : "Projetos",
+    "Header.Item4" : "Contato",
+    "Header.cvBtn" : "Currículo",
+    "Header.cvName": "Currículo_dev.pdf",
+
+    "Banner.Pretitle": "Olá! Meu nome é",
+    "Banner.Description": "Tenho <span class='underline'>4 anos de experiência</span> desenvolvendo sistemas, interfaces, bots e soluções tecnológicas para tornar a web um lugar melhor. Meu foco é escrever e refatorar código limpo, reutilizável e escalável em <span class='underline'>Angular</span> e <span class='underline'>Laravel</span>, aplicando boas práticas e padrões de desenvolvimento.",
+    "Banner.ActionBtn": "Entre em contato",
+
+    "AboutMe.Title": "Sobre mim",
+    "AboutMe.Paragraphs": [
+        "Em <span class='underline'>4 anos de experiência</span>, atuei em muitas funções: <span class='underline'>desenvolvedor fullstack</span>, <span class='underline'>desenvolvedor de back-end </span>, <span class='underline'>desenvolvedor frontend</span> e <span class='underline'>testes automatizados</span> Adoro contribuir com meu conhecimento para criar coisas novas que ajudem a resolver problemas. ",
+        "Minhas capacidades também incluem implementar melhorias em sistemas, otimizar sites, padronizar padrões e sugerir e executar ideias que agreguem valor ao projeto em que estou trabalhando.",
+        "Também programo coisas para meu uso pessoal, seja como hobby ou para utilidade.",
+        "Algumas das tecnologias nas quais treinei e trabalhei incluem (mas não estão limitadas a):"
+    ],
+
+
+    "Experience.Title": "Experiências",
+    "Experience.Jobs": [
+        
+        {
+            "Tab": "Rudi Imóveis",
+            "Title": "Fullstack developer",
+            "Date": "Junho 2023",
+            "Description": [
+                "Desenvolvimento de um site para uma imobiliária. Site desenvolvido usando as linguagens PHP, SQL, javascript . Abaixo o link do site."
+                
+            ]
+      },
+      {
+            "Tab": "Ferragem Ferreira",
+            "Title": "Fullstack developer",
+            "Date": "Dezembro 2020",
+            "Description": [
+              "Construção de um ecommerce para essa ferragem. Utilizei PHP, HTML, SQL, css, Javascript."              
+            ]
+        },
+        {
+            "Tab": "DBServer",
+            "Title": "Desenvolvedor web",
+            "Date": "Abril 2019",
+            "Description": [
+              "Trabalhei no desenvolvimento do Internet Banking de um banco e desenvolvi um sistema de vendas para os colaboradores utilizarem internamente dentro da DBServer."              
+            ]
+        }       
+            
+    ],
+
+    "FeatureProjects.Title": "Meus projetos",
+    "FeatureProjects.Label": "Projeto em destaque",
+    "FeatureProjects.Projects": [{
+        "Title": "Restaurante",
+        "Description": "Sistema de Restaurante. ID admin: 35 senha: 051080. Nele você pode fazer reserva como cliente, entrar na opção funcionário com o id e a senha. No sistema como funcionário da para fazer todos processos de um restaurante.",
+        "imgs": [
+        "assets/images/restaurante/principal.jpg",
+        "assets/images/restaurante/reserva.jpg",
+        "assets/images/restaurante/menu.jpg",
+        "assets/images/restaurante/dashboard.jpg",
+        "assets/images/restaurante/relatorio.jpg"
+        ],
+        "ghLink": "https://github.com/marciodutra/Sistema_Restaurante",
+        "demoLink": "http://sistemarestaurante.rf.gd/customerSide/home/home.php?i=2",
+        "Technologies": ["PHP", "HTML", "CSS", "SQL"]
+        
+        },
+        
+        {
+          "Title": "Ecommerce",
+          "Description": "Esse é uma loja online com o sistema da loja acoplado. O cliente entra na loja, se cadastra, se loga e pode fazer a compra. Projeto usando PHP, Javascript, SQL, Bootstrapecommerce",
+          "imgs": [
+              "assets/images/ecommerce/produtos.jpg",
+              "assets/images/ecommerce/principal.jpg",
+              "assets/images/ecommerce/pagamento.jpg",
+              "assets/images/ecommerce/eletronicos.jpg",
+              "assets/images/ecommerce/carrinho.jpg"
+          ],
+          "ghLink": "https://github.com/marciodutra/Shopping_online",
+          "demoLink": "http://lojaonline.rf.gd/index.php?i=1",
+          "Technologies": ["PHP", "CSS", "Javascript", "SQL"]
+        },
+        
+        {
+          "Title": "Sistema de hotel",
+          "Description": "Site simples de reserva de hotel com sistema de gerenciamento de conteúdo. Os usuários podem reservar quartos para datas específicas. O administrador pode criar, atualizar e excluir detalhes do quarto.Login de funcionário: Email : Admin@gmail.com e Password : 1234.hotel",
+          "imgs": [
+              "assets/images/hotel/principal.jpg",
+              "assets/images/hotel/reservas.jpg",
+              "assets/images/hotel/quartos.jpg",
+              "assets/images/hotel/login.jpg",
+              "assets/images/hotel/dashboard.jpg"
+          ],
+          "ghLink": "https://github.com/marciodutra/Sistema_Hotel_Bluebird",
+          "demoLink": "http://hotelbluebird.rf.gd/index.php?i=1",
+          "Technologies": ["PHP", "CSS", "Javascript", "HTML", "SQL"]
+        },
+        {
+            "Title": "Sistema de imobiliária",
+            "Description": "Esse site eu fiz para um corretor de imóveis. Nele você pode olhar os imóveis para alugar, vender, fazer filtros. Esse site está em funcionamento então pode acontecer de alguém da imobiliária fazer contato.",
+            "imgs": [
+                "assets/images/imobiliaria/principal.jpg",
+                "assets/images/imobiliaria/rodape.jpg",
+                "assets/images/imobiliaria/contato.jpg",
+                "assets/images/imobiliaria/venda.jpg",
+                "assets/images/imobiliaria/aluguel.jpg"
+            ],
+            "ghLink": "#",
+            "demoLink": "https://rudiimoveiscanoas.com.br/",
+            "Technologies": ["HTML", "CSS", "PHP", "Javascript", "SQL"]
+        },
+        {
+            "Title": "Agenda saúde",
+            "Description": "O **Agende Saúde** é um sistema feito para as Unidades Básicas de Saúde , que tem foco em melhorar a qualidade no agendamento de consultas. É do planejamento reduzir a necessidade de filas para realizar um único agendamento.Usuários: Profissional: 467.738.338-33 senha: senha123 Paciente: Digite o prontuario 1, 2 ou 3 e a senha é senha 123",
+            "imgs": [
+                "assets/images/saude/principal.jpg",
+                "assets/images/saude/especialidade.jpg",
+                "assets/images/saude/prontuario3.jpg",
+                "assets/images/saude/prontuario2.jpg",
+                "assets/images/saude/prontuario1.jpg",
+                "assets/images/saude/admin.jpg",
+                "assets/images/saude/unidades.jpg",
+                "assets/images/saude/principal.jpg",
+                "assets/images/saude/especialidade.jpg",
+                "assets/images/saude/admin.jpg",
+                "assets/images/saude/unidades.jpg",
+                "assets/images/saude/proyex/prontuario2.jpg"
+            ],
+            "ghLink": "https://github.com/marciodutra/Agende_Saude",
+            "demoLink": "http://agendesaude.rf.gd/index.php",
+            "Technologies": ["PHP", "HTML", "CSS", "Javascript", "SQL"]
+        }        
+    ],
+
+
+    "OtherProjects.Title": "Mais projetos",
+    "OtherProjects.Projects": [{
+            "Title": "ERP",
+            "Description": "Esse é um ERP de uma empresa que controla todo o setor de RH e DP de uma empresa. Para se logar use o usuário Barry e a senha barry.",
+            "ghLink": "https://github.com/marciodutra/Gerenciamento_ERP",
+            "demoLink": "https://lojanovadutra.000webhostapp.com/login.php",
+            "Technologies": ["PHP", "SQL"]
+        },
+        {
+            "Title": "Sistema de gerenciamento de projetos",
+            "Description": "Projetado usando tecnologias como HTML, CSS, JavaScript, Bootstrap, Jquery, PHP e banco de dados MySQL. Usuário user e senha password",
+            "ghLink": "https://github.com/marciodutra/Gerenciamento_Projetos",
+            "demoLink": "https://sistemaprojetomd.000webhostapp.com/",
+            "Technologies": ["PHP", "Javascript"]
+        },
+        {
+            "Title": "Casa geriátrica",
+            "Description": "Sistema para casa geriatrica ou lar de idoso. Feito em PHP, SQL, Javascript e Bootstrap.",
+            "ghLink": "https://github.com/marciodutra/CasaGeriatrica",
+            "demoLink": "http://casageriatrica.rf.gd/index.php",
+            "Technologies": ["PHP", "Bootstrap", "CSS", "Javascript", "SQL"]
+        },
+        {
+            "Title": "Agência de viajens",
+            "Description": "Este site foi desenvolvido usando PHP mysqli e algum javascript. Possui funcionalidade completa de comércio eletrônico. Para acessar o painel de administração: admin@gmail.com e Senha: administrador",
+            "ghLink": "https://github.com/andresjosehr/social-proof-section",
+            "demoLink": "https://github.com/marciodutra/Agencia_Turismo",
+            "Technologies": ["PHP", "CSS", "Javascript", "SQL"]
+        },
+        {
+            "Title": "Sistema de administração de imóveis",
+            "Description": "O código utiliza PHP, CSS JavaScript e MySQL. O CSS foi desenvolvido utilizando métodos próprios e alguns elementos do Bootstrap e da W3. Usuário admin e senha admin.",
+            "ghLink": "https://github.com/marciodutra/ADM_Condom-nio",
+            "demoLink": "http://condominioadm.rf.gd/login.php",
+            "Technologies": ["PHP", "Twig", "Javascript", "CSS"]
+        },
+        {
+            "Title": "Barbershop",
+            "Description": "O Site Márcio Dutra Barbershop é um site utilizado para ajudar a encontrar o local certo para fazer a barba, o objetivo inicial é exibi-lo no Google Maps que foi desenvolvido com diversos recursos. Para entrar como funcionário use o usuário admin e a sennha 200512",
+            "ghLink": "https://github.com/marciodutra/Barbershop",
+            "demoLink": "http://barbeariamd.rf.gd/index.php?i=1",
+            "Technologies": ["PHP", "CSS", "Javascript"]
+        }
+    ],
+    "Contact.Pretitle": "Qual é o próximo",
+    "Contact.Title": "Entre em contato!!",
+    "Contact.Content": "Ficarei feliz em receber seu contato caso queira conversar sobre novas oportunidades. Escreva-me e responderei assim que receber sua mensagem.",
+    "Contact.Btn": "Contato"
+
+
+}

@@ -1,0 +1,26 @@
+<footer>
+    <div [@animateFooter]>
+        <ul class="footer-left-bar d-none d-md-block">
+            <li>
+                <a (click)='analyticsService.sendAnalyticEvent("click_github", "footer", "github")' href="https://github.com/marciodutra?tab=repositories" target='_blank'>
+                    <i class="fab fa-github"></i>
+                </a>
+            </li>
+            <li>
+                <a (click)='analyticsService.sendAnalyticEvent("click_linkedin", "footer", "github")' href="https://www.linkedin.com/in/m%C3%A1rcio-dutra-10362222/" target='_blank'>
+                    <i class="fab fa-linkedin-in"></i>
+                </a>
+            </li>
+        </ul>
+        <div class="footer-right-bar d-none d-md-block">
+            <a (click)='analyticsService.sendAnalyticEvent("click_send_mail", "footer", "email")' href="mailto:professormarciodutra@gmail.com" target='_blank'>professormarciodutra&#64;gmail.com </a>
+        </div>
+    </div>
+
+    <div class="footer-credits text-center" >
+        <a (click)='analyticsService.sendAnalyticEvent("click_github_portfolio_andresjose", "footer", "click")' href="https://github.com/marciodutra?tab=repositories" target="_blank" rel="nofollow noopener noreferrer">
+            <div>Construído com Angular por Márcio Dutra</div>
+        </a>        
+    </div>
+
+</footer>
