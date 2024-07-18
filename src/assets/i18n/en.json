@@ -23,33 +23,33 @@
 
     "Experience.Title": "Experiências",
     "Experience.Jobs": [
-        
+
         {
             "Tab": "Rudi Imóveis",
             "Title": "Fullstack developer",
-            "Date": "Junho 2023",
+            "Date": "Junho 2023- 1 ano e 5 meses",
             "Description": [
                 "Desenvolvimento de um site para uma imobiliária. Site desenvolvido usando as linguagens PHP, SQL, javascript . Abaixo o link do site."
-                
+
             ]
       },
       {
             "Tab": "Ferragem Ferreira",
             "Title": "Fullstack developer",
-            "Date": "Dezembro 2020",
+            "Date": "Dezembro 2020 - 1 ano e 6 meses",
             "Description": [
-              "Construção de um ecommerce para essa ferragem. Utilizei PHP, HTML, SQL, css, Javascript."              
+              "Construção de um ecommerce para essa ferragem. Utilizei PHP, HTML, SQL, css, Javascript."
             ]
         },
         {
             "Tab": "DBServer",
             "Title": "Desenvolvedor web",
-            "Date": "Abril 2019",
+            "Date": "Abril 2019 - 1 ano e 3 meses",
             "Description": [
-              "Trabalhei no desenvolvimento do Internet Banking de um banco e desenvolvi um sistema de vendas para os colaboradores utilizarem internamente dentro da DBServer."              
+              "Trabalhei no desenvolvimento do Internet Banking de um banco e desenvolvi um sistema de vendas para os colaboradores utilizarem internamente dentro da DBServer."
             ]
-        }       
-            
+        }
+
     ],
 
     "FeatureProjects.Title": "Meus projetos",
@@ -67,9 +67,9 @@
         "ghLink": "https://github.com/marciodutra/Sistema_Restaurante",
         "demoLink": "http://sistemarestaurante.rf.gd/customerSide/home/home.php?i=2",
         "Technologies": ["PHP", "HTML", "CSS", "SQL"]
-        
+
         },
-        
+
         {
           "Title": "Ecommerce",
           "Description": "Esse é uma loja online com o sistema da loja acoplado. O cliente entra na loja, se cadastra, se loga e pode fazer a compra. Projeto usando PHP, Javascript, SQL, Bootstrapecommerce",
@@ -84,7 +84,7 @@
           "demoLink": "http://lojaonline.rf.gd/index.php?i=1",
           "Technologies": ["PHP", "CSS", "Javascript", "SQL"]
         },
-        
+
         {
           "Title": "Sistema de hotel",
           "Description": "Site simples de reserva de hotel com sistema de gerenciamento de conteúdo. Os usuários podem reservar quartos para datas específicas. O administrador pode criar, atualizar e excluir detalhes do quarto.Login de funcionário: Email : Admin@gmail.com e Password : 1234.hotel",
@@ -133,7 +133,7 @@
             "ghLink": "https://github.com/marciodutra/Agende_Saude",
             "demoLink": "http://agendesaude.rf.gd/index.php",
             "Technologies": ["PHP", "HTML", "CSS", "Javascript", "SQL"]
-        }        
+        }
     ],
 
 

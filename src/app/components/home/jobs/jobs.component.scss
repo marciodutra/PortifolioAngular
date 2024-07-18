@@ -5,7 +5,7 @@
     display: flex;
 
     .tab-content{
-        margin-left: 38px;
+        margin-left: 250px;
     }
 
     ul{
@@ -20,7 +20,7 @@
         border-color: transparent !important;
         border-radius: 0px;
     }
-    
+
     a:hover{
         background-color: $LightNavy !important;
         color: $Green !important;
@@ -56,7 +56,7 @@
         text-align: left;
         white-space: nowrap;
         font-family: $CodeFont;
-        font-size: 13px;
+        font-size: 25px;
         color: $Slate;
     }
 
@@ -71,11 +71,11 @@
 .jobs{
 
     max-width: 700px;
-    margin: auto;
+    //margin: auto;
 
     .title-tab-content{
         color: $LightestSlate;
-        font-size: 22px;
+        font-size: 30px;
         font-weight: 500;
         margin-bottom: 5px;
 
@@ -86,7 +86,7 @@
 
     .job-time{
         font-family: $CodeFont;
-        font-size: 13px;
+        font-size: 20px;
         font-weight: normal;
             -webkit-letter-spacing: 0.05em;
         -moz-letter-spacing: 0.05em;
@@ -95,7 +95,7 @@
         color: $LightSlate;
         margin-bottom: 30px;
     }
-    
+
     .job-description{
         position: relative;
         padding-left: 30px;
