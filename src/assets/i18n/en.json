@@ -65,7 +65,7 @@
         "assets/images/restaurante/relatorio.jpg"
         ],
         "ghLink": "https://github.com/marciodutra/Sistema_Restaurante",
-        "demoLink": "http://sistemarestaurante.rf.gd/customerSide/home/home.php?i=2",
+        "demoLink": "https://sistemarestaurante.rf.gd/customerSide/home/home.php?i=2",
         "Technologies": ["PHP", "HTML", "CSS", "SQL"]
 
         },
@@ -81,7 +81,7 @@
               "assets/images/ecommerce/carrinho.jpg"
           ],
           "ghLink": "https://github.com/marciodutra/Shopping_online",
-          "demoLink": "http://lojaonline.rf.gd/index.php?i=1",
+          "demoLink": "https://lojaonline.rf.gd/index.php?i=1",
           "Technologies": ["PHP", "CSS", "Javascript", "SQL"]
         },
 
@@ -96,7 +96,7 @@
               "assets/images/hotel/dashboard.jpg"
           ],
           "ghLink": "https://github.com/marciodutra/Sistema_Hotel_Bluebird",
-          "demoLink": "http://hotelbluebird.rf.gd/index.php?i=1",
+          "demoLink": "https://hotelbluebird.rf.gd/index.php?i=1",
           "Technologies": ["PHP", "CSS", "Javascript", "HTML", "SQL"]
         },
         {
@@ -156,28 +156,28 @@
             "Title": "Casa geriátrica",
             "Description": "Sistema para casa geriatrica ou lar de idoso. Feito em PHP, SQL, Javascript e Bootstrap.",
             "ghLink": "https://github.com/marciodutra/CasaGeriatrica",
-            "demoLink": "http://casageriatrica.rf.gd/index.php",
+            "demoLink": "https://casageriatrica.rf.gd/index.php",
             "Technologies": ["PHP", "Bootstrap", "CSS", "Javascript", "SQL"]
         },
         {
             "Title": "Agência de viajens",
             "Description": "Este site foi desenvolvido usando PHP mysqli e algum javascript. Possui funcionalidade completa de comércio eletrônico. Para acessar o painel de administração: admin@gmail.com e Senha: administrador",
             "ghLink": "https://github.com/andresjosehr/social-proof-section",
-            "demoLink": "http://agenciaturismo.rf.gd/",
+            "demoLink": "https://agenciaturismo.rf.gd/",
             "Technologies": ["PHP", "CSS", "Javascript", "SQL"]
         },
         {
             "Title": "Sistema de administração de imóveis",
             "Description": "O código utiliza PHP, CSS JavaScript e MySQL. O CSS foi desenvolvido utilizando métodos próprios e alguns elementos do Bootstrap e da W3. Usuário admin e senha admin.",
             "ghLink": "https://github.com/marciodutra/ADM_Condom-nio",
-            "demoLink": "http://condominioadm.rf.gd/login.php",
+            "demoLink": "https://condominioadm.rf.gd/login.php",
             "Technologies": ["PHP", "Twig", "Javascript", "CSS"]
         },
         {
             "Title": "Barbershop",
             "Description": "O Site Márcio Dutra Barbershop é um site utilizado para ajudar a encontrar o local certo para fazer a barba, o objetivo inicial é exibi-lo no Google Maps que foi desenvolvido com diversos recursos. Para entrar como funcionário use o usuário admin e a sennha 200512",
             "ghLink": "https://github.com/marciodutra/Barbershop",
-            "demoLink": "http://barbeariamd.rf.gd/index.php?i=1",
+            "demoLink": "https://barbeariamd.rf.gd/index.php?i=1",
             "Technologies": ["PHP", "CSS", "Javascript"]
         }
     ],
