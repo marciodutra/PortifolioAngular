@@ -71,6 +71,21 @@
         },
 
         {
+        "Title": "Restaurante",
+          "Description": "Esse é um site de um restaurante diferenciado com diversos eventos além das refeições.",
+          "imgs": [
+              "assets/images/ecommerce/principal.jpg",
+              "assets/images/ecommerce/menu.jpg",
+              "assets/images/ecommerce/classes.jpg",
+              "assets/images/ecommerce/reserva.jpg",
+              "assets/images/ecommerce/blog.jpg"
+          ],
+          "ghLink": "https://github.com/marciodutra/Restaurante/tree/main",
+          "demoLink": "https://restaurantedomarcio.netlify.app/",
+          "Technologies": ["Typescript", "Javascript", "CSS", "Twig"]
+        },
+
+        {
           "Title": "Ecommerce",
           "Description": "Esse é uma loja online com o sistema da loja acoplado. O cliente entra na loja, se cadastra, se loga e pode fazer a compra. Projeto usando PHP, Javascript, SQL, Bootstrapecommerce",
           "imgs": [
@@ -131,7 +146,7 @@
                 "assets/images/saude/proyex/prontuario2.jpg"
             ],
             "ghLink": "https://github.com/marciodutra/Agende_Saude",
-            "demoLink": "http://agendesaude.rf.gd/index.php",
+            "demoLink": "https://agendesaude.rf.gd/index.php",
             "Technologies": ["PHP", "HTML", "CSS", "Javascript", "SQL"]
         }
     ],
