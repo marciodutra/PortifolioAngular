@@ -74,11 +74,11 @@
         "Title": "Restaurante",
           "Description": "Esse é um site de um restaurante diferenciado com diversos eventos além das refeições.",
           "imgs": [
-              "assets/images/ecommerce/principal.jpg",
-              "assets/images/ecommerce/menu.jpg",
-              "assets/images/ecommerce/classes.jpg",
-              "assets/images/ecommerce/reserva.jpg",
-              "assets/images/ecommerce/blog.jpg"
+              "assets/images/fotos/principal.jpg",
+              "assets/images/fotos/menu.jpg",
+              "assets/images/fotos/classes.jpg",
+              "assets/images/fotos/reserva.jpg",
+              "assets/images/fotos/blog.jpg"
           ],
           "ghLink": "https://github.com/marciodutra/Restaurante/tree/main",
           "demoLink": "https://restaurantedomarcio.netlify.app/",
