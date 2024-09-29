@@ -70,6 +70,21 @@
 
         },
 
+      {
+        "Title": "Pizzaria",
+          "Description": "Esse é um Frontende responsivo de um site de Pizzaria.",
+          "imgs": [
+              "assets/images/fotos/principal.jpg",
+              "assets/images/fotos/empresa.jpg",
+              "assets/images/fotos/cardapio.jpg",
+              "assets/images/fotos/montar.jpg",
+              "assets/images/fotos/contato.jpg"
+          ],
+          "ghLink": "https://github.com/marciodutra/sitePizzaria",
+          "demoLink": "https://sitepizzaria.netlify.app/",
+          "Technologies": ["HTML", "Javascript", "CSS"]
+        },
+
         {
         "Title": "Restaurante",
           "Description": "Esse é um site de um restaurante diferenciado com diversos eventos além das refeições.",
