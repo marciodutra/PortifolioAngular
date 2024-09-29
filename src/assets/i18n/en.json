@@ -74,11 +74,11 @@
         "Title": "Pizzaria",
           "Description": "Esse é um Frontende responsivo de um site de Pizzaria.",
           "imgs": [
-              "assets/images/fotos/principal.jpg",
-              "assets/images/fotos/empresa.jpg",
-              "assets/images/fotos/cardapio.jpg",
-              "assets/images/fotos/montar.jpg",
-              "assets/images/fotos/contato.jpg"
+              "assets/images/pizza/principal.jpg",
+              "assets/images/pizza/empresa.jpg",
+              "assets/images/pizza/cardapio.jpg",
+              "assets/images/pizza/montar.jpg",
+              "assets/images/pizza/contato.jpg"
           ],
           "ghLink": "https://github.com/marciodutra/sitePizzaria",
           "demoLink": "https://sitepizzaria.netlify.app/",
