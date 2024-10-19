@@ -54,7 +54,24 @@
 
     "FeatureProjects.Title": "Meus projetos",
     "FeatureProjects.Label": "Projeto em destaque",
-    "FeatureProjects.Projects": [{
+    "FeatureProjects.Projects": [
+      
+      {
+        "Title": "Projeto Violência Contra Mulher",
+        "Description": "Mais um projetinho realizado. Esse é da extensão da faculdade. trata-se de um site e um app onde as mulheres que sofrem com violência doméstica podem conversar e trocar informações. Podem enviar uma mensagem de socorro criptografada onde só a pessoa que ela deseja conseguirá ler. Funciona assim: Ela digita a mensagem e clica no botão criptografar. Copia a mensagem criptografada e envia para a outra pessoa com o link do site. A outra pessoa poderá reverter a criptografia e ler a mensgem.",
+        "imgs": [
+        "assets/images/mulher/principal.jpg",
+        "assets/images/mulher/missao.jpg",
+        "assets/images/mulher/mensagem.jpg",
+        "assets/images/mulher/pedido.jpg",
+        "assets/images/mulher/ajuda.jpg"
+        ],
+        "ghLink": "https://github.com/marciodutra/Projeto_Violencia_Contra_Mulher",
+        "demoLink": "https://projetoviolenciacontramulher.netlify.app/",
+        "Technologies": ["HTML", "CSS", "Javascript", "API"]
+
+        },
+      {
         "Title": "Restaurante",
         "Description": "Sistema de Restaurante. ID admin: 35 senha: 051080. Nele você pode fazer reserva como cliente, entrar na opção funcionário com o id e a senha. No sistema como funcionário da para fazer todos processos de um restaurante.",
         "imgs": [
