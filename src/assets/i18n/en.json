@@ -55,6 +55,22 @@
     "FeatureProjects.Title": "Meus projetos",
     "FeatureProjects.Label": "Projeto em destaque",
     "FeatureProjects.Projects": [
+
+      {
+        "Title": "Sistema de vendas",
+        "Description": "Mais um sistema concluído. Esse sistema será usado por uma instituição que tem um brechó, um bazar e um feirão. O funcionário se cadastra e se loga. Faz o registro do pedido colocando nome do cliente, escolhendo se é Bazar, Brechó ou Feirão, coloca a quantidade e registra. Na tela de visualizar pedidos, aparecem todos os pedidos. O funcionário pesquisa pelo nome do cliente e aparece só as compras do cliente. Ele pode marcar como pago, dar desconto de 50%, que foi estipulado pela instituição. O sistema também tem um relatório que mostra as vendas de cada setor e um total de vendas.",
+        "imgs": [
+        "assets/images/venda/principal.jpg",
+        "assets/images/venda/cadastro.jpg",
+        "assets/images/venda/pedido.jpg",
+        "assets/images/venda/visualizar.jpg",
+        "assets/images/venda/relatorio.jpg"
+        ],
+        "ghLink": "https://github.com/marciodutra/Projeto_Violencia_Contra_Mulher",
+        "demoLink": "https://projetoviolenciacontramulher.netlify.app/",
+        "Technologies": ["HTML", "CSS", "Javascript", "API"]
+
+        },
       
       {
         "Title": "Projeto Violência Contra Mulher",
